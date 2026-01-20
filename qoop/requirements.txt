@@ -1,4 +1,7 @@
 qiskit==0.45.0
-matpliotlib
+qiskit-aer
+qiskit-machine-learning
+matplotlib
 numpy
+tqdm
 tqdm

@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+
+# Quantum / QSVM (used by testH pipeline)
+qiskit==0.45.0
+qiskit-aer
+qiskit-machine-learning
+
+
